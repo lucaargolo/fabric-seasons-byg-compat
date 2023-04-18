@@ -1,0 +1,34 @@
+{
+  "textures": {
+    "summer": {
+      "east": "byg:block/willow/summer_leaves",
+      "overlay": "byg:block/willow/summer_leaves",
+      "south": "byg:block/willow/summer_leaves",
+      "north": "byg:block/willow/summer_leaves",
+      "west": "byg:block/willow/summer_leaves",
+      "particle": "byg:block/willow/summer_leaves",
+      "up": "byg:block/willow/summer_leaves",
+      "down": "byg:block/willow/summer_leaves"
+    },
+    "fall": {
+      "east": "byg:block/willow/fall_leaves",
+      "overlay": "byg:block/willow/fall_leaves",
+      "south": "byg:block/willow/fall_leaves",
+      "north": "byg:block/willow/fall_leaves",
+      "west": "byg:block/willow/fall_leaves",
+      "particle": "byg:block/willow/fall_leaves",
+      "up": "byg:block/willow/fall_leaves",
+      "down": "byg:block/willow/fall_leaves"
+    },
+    "winter": {
+      "east": "byg:block/willow/winter_leaves",
+      "overlay": "byg:block/willow/winter_leaves",
+      "south": "byg:block/willow/winter_leaves",
+      "north": "byg:block/willow/winter_leaves",
+      "west": "byg:block/willow/winter_leaves",
+      "particle": "byg:block/willow/winter_leaves",
+      "up": "byg:block/willow/winter_leaves",
+      "down": "byg:block/willow/winter_leaves"
+    }
+  }
+}

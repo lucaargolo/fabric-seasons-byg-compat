@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/aspen/summer_leaves",
+      "particle": "byg:block/aspen/summer_leaves"
+    },
+    "fall": {
+      "all": "byg:block/aspen/fall_leaves",
+      "particle": "byg:block/aspen/fall_leaves"
+    },
+    "winter": {
+      "all": "byg:block/aspen/winter_leaves",
+      "particle": "byg:block/aspen/winter_leaves"
+    }
+  }
+}

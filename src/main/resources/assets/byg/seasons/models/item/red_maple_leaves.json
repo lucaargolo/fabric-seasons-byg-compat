@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/summer_maple_leaves_red"
+    },
+    "fall": {
+      "all": "byg:block/fall_maple_leaves_red"
+    },
+    "winter": {
+      "all": "byg:block/winter_maple_leaves_red"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/summer_oak_leaves_dry_brown",
+      "particle": "byg:block/summer_oak_leaves_dry_brown"
+    },
+    "fall": {
+      "all": "byg:block/fall_oak_leaves_dry_brown",
+      "particle": "byg:block/fall_oak_leaves_dry_brown"
+    },
+    "winter": {
+      "all": "byg:block/winter_oak_leaves_dry_brown",
+      "particle": "byg:block/winter_oak_leaves_dry_brown"
+    }
+  }
+}

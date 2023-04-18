@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/green_enchanted/summer_leaves",
+      "particle": "byg:block/green_enchanted/summer_leaves"
+    },
+    "fall": {
+      "all": "byg:block/green_enchanted/fall_leaves",
+      "particle": "byg:block/green_enchanted/fall_leaves"
+    },
+    "winter": {
+      "all": "byg:block/green_enchanted/winter_leaves",
+      "particle": "byg:block/green_enchanted/winter_leaves"
+    }
+  }
+}

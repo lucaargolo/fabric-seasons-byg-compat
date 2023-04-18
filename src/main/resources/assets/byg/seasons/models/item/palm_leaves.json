@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/palm/summer_leaves",
+      "particle": "byg:block/palm/summer_leaves"
+    },
+    "fall": {
+      "all": "byg:block/palm/fall_leaves",
+      "particle": "byg:block/palm/fall_leaves"
+    },
+    "winter": {
+      "all": "byg:block/palm/winter_leaves",
+      "particle": "byg:block/palm/winter_leaves"
+    }
+  }
+}

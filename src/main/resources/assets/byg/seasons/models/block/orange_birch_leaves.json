@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/summer_orange_birch_leaves",
+      "particle": "byg:block/summer_orange_birch_leaves"
+    },
+    "fall": {
+      "all": "byg:block/fall_orange_birch_leaves",
+      "particle": "byg:block/fall_orange_birch_leaves"
+    },
+    "winter": {
+      "all": "byg:block/winter_orange_birch_leaves",
+      "particle": "byg:block/winter_orange_birch_leaves"
+    }
+  }
+}

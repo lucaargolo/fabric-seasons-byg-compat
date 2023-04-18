@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/skyris/summer_leaves",
+      "particle": "byg:block/skyris/summer_leaves"
+    },
+    "fall": {
+      "all": "byg:block/skyris/fall_leaves",
+      "particle": "byg:block/skyris/fall_leaves"
+    },
+    "winter": {
+      "all": "byg:block/skyris/winter_leaves",
+      "particle": "byg:block/skyris/winter_leaves"
+    }
+  }
+}

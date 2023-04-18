@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/redwood/summer_leaves",
+      "particle": "byg:block/redwood/summer_leaves"
+    },
+    "fall": {
+      "all": "byg:block/redwood/fall_leaves",
+      "particle": "byg:block/redwood/fall_leaves"
+    },
+    "winter": {
+      "all": "byg:block/redwood/winter_leaves",
+      "particle": "byg:block/redwood/winter_leaves"
+    }
+  }
+}

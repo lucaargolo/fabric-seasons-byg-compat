@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/zelkova/summer_leaves",
+      "particle": "byg:block/zelkova/summer_leaves"
+    },
+    "fall": {
+      "all": "byg:block/zelkova/fall_leaves",
+      "particle": "byg:block/zelkova/fall_leaves"
+    },
+    "winter": {
+      "all": "byg:block/zelkova/winter_leaves",
+      "particle": "byg:block/zelkova/winter_leaves"
+    }
+  }
+}

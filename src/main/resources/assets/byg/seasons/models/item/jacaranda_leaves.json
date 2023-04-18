@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/jacaranda/summer_leaves",
+      "particle": "byg:block/jacaranda/summer_leaves"
+    },
+    "fall": {
+      "all": "byg:block/jacaranda/fall_leaves",
+      "particle": "byg:block/jacaranda/fall_leaves"
+    },
+    "winter": {
+      "all": "byg:block/jacaranda/winter_leaves",
+      "particle": "byg:block/jacaranda/winter_leaves"
+    }
+  }
+}

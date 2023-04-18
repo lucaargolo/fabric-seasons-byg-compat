@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/summer_green_apple_skyris_leaves"
+    },
+    "fall": {
+      "all": "byg:block/fall_green_apple_skyris_leaves"
+    },
+    "winter": {
+      "all": "byg:block/winter_green_apple_skyris_leaves"
+    }
+  }
+}

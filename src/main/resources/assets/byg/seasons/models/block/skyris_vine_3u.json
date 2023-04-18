@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "particle": "byg:block/summer_skyris_vine_flowering",
+      "vine": "byg:block/summer_skyris_vine_flowering"
+    },
+    "fall": {
+      "particle": "byg:block/fall_skyris_vine_flowering",
+      "vine": "byg:block/fall_skyris_vine_flowering"
+    },
+    "winter": {
+      "particle": "byg:block/winter_skyris_vine_flowering",
+      "vine": "byg:block/winter_skyris_vine_flowering"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/ebony/summer_leaves",
+      "particle": "byg:block/ebony/summer_leaves"
+    },
+    "fall": {
+      "all": "byg:block/ebony/fall_leaves",
+      "particle": "byg:block/ebony/fall_leaves"
+    },
+    "winter": {
+      "all": "byg:block/ebony/winter_leaves",
+      "particle": "byg:block/ebony/winter_leaves"
+    }
+  }
+}

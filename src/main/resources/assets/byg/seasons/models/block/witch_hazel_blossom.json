@@ -1,0 +1,19 @@
+{
+  "textures": {
+    "summer": {
+      "particle": "byg:block/summer_witch_hazel_blossom",
+      "flower": "byg:block/summer_witch_hazel_blossom",
+      "base": "byg:block/summer_witch_hazel_blossom_base"
+    },
+    "fall": {
+      "particle": "byg:block/fall_witch_hazel_blossom",
+      "flower": "byg:block/fall_witch_hazel_blossom",
+      "base": "byg:block/fall_witch_hazel_blossom_base"
+    },
+    "winter": {
+      "particle": "byg:block/winter_witch_hazel_blossom",
+      "flower": "byg:block/winter_witch_hazel_blossom",
+      "base": "byg:block/winter_witch_hazel_blossom_base"
+    }
+  }
+}

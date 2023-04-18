@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/witch_hazel/summer_leaves",
+      "particle": "byg:block/witch_hazel/summer_leaves"
+    },
+    "fall": {
+      "all": "byg:block/witch_hazel/fall_leaves",
+      "particle": "byg:block/witch_hazel/fall_leaves"
+    },
+    "winter": {
+      "all": "byg:block/witch_hazel/winter_leaves",
+      "particle": "byg:block/witch_hazel/winter_leaves"
+    }
+  }
+}

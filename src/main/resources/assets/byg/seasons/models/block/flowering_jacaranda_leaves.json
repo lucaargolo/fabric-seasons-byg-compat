@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/summer_flowering_jacaranda_leaves"
+    },
+    "fall": {
+      "all": "byg:block/fall_flowering_jacaranda_leaves"
+    },
+    "winter": {
+      "all": "byg:block/winter_flowering_jacaranda_leaves"
+    }
+  }
+}

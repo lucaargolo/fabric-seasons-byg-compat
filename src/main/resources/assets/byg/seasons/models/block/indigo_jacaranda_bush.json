@@ -1,0 +1,22 @@
+{
+  "textures": {
+    "summer": {
+      "side": "byg:block/summer_indigo_jacaranda_bush_side",
+      "top": "byg:block/summer_indigo_jacaranda_bush_top",
+      "plant": "byg:block/summer_indigo_jacaranda_bush",
+      "particle": "byg:block/summer_indigo_jacaranda_bush"
+    },
+    "fall": {
+      "side": "byg:block/fall_indigo_jacaranda_bush_side",
+      "top": "byg:block/fall_indigo_jacaranda_bush_top",
+      "plant": "byg:block/fall_indigo_jacaranda_bush",
+      "particle": "byg:block/fall_indigo_jacaranda_bush"
+    },
+    "winter": {
+      "side": "byg:block/winter_indigo_jacaranda_bush_side",
+      "top": "byg:block/winter_indigo_jacaranda_bush_top",
+      "plant": "byg:block/winter_indigo_jacaranda_bush",
+      "particle": "byg:block/winter_indigo_jacaranda_bush"
+    }
+  }
+}

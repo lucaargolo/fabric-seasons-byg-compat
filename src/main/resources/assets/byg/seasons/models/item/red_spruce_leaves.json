@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/summer_spruce_leaves_red",
+      "particle": "byg:block/summer_spruce_leaves_red"
+    },
+    "fall": {
+      "all": "byg:block/fall_spruce_leaves_red",
+      "particle": "byg:block/fall_spruce_leaves_red"
+    },
+    "winter": {
+      "all": "byg:block/winter_spruce_leaves_red",
+      "particle": "byg:block/winter_spruce_leaves_red"
+    }
+  }
+}

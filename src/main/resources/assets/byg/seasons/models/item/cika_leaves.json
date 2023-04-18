@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/cika/summer_leaves",
+      "particle": "byg:block/cika/summer_leaves"
+    },
+    "fall": {
+      "all": "byg:block/cika/fall_leaves",
+      "particle": "byg:block/cika/fall_leaves"
+    },
+    "winter": {
+      "all": "byg:block/cika/winter_leaves",
+      "particle": "byg:block/cika/winter_leaves"
+    }
+  }
+}

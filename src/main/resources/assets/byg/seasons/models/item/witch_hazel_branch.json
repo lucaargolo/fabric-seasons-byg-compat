@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "layer0": "byg:block/summer_witch_hazel_branch"
+    },
+    "fall": {
+      "layer0": "byg:block/fall_witch_hazel_branch"
+    },
+    "winter": {
+      "layer0": "byg:block/winter_witch_hazel_branch"
+    }
+  }
+}

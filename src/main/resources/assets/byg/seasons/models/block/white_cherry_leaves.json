@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "summer": {
+      "all": "byg:block/summer_white_cherry_leaves",
+      "particle": "byg:block/summer_white_cherry_leaves"
+    },
+    "fall": {
+      "all": "byg:block/fall_white_cherry_leaves",
+      "particle": "byg:block/fall_white_cherry_leaves"
+    },
+    "winter": {
+      "all": "byg:block/winter_white_cherry_leaves",
+      "particle": "byg:block/winter_white_cherry_leaves"
+    }
+  }
+}
