@@ -154,7 +154,7 @@ curseforge {
             displayName = releaseName
             relations(closureOf<CurseRelation> {
                 requiredDependency("fabric-seasons")
-                requiredDependency("oh-the-biomes-youll-go")
+                requiredDependency("oh-the-biomes-youll-go-fabric")
             })
         })
 
